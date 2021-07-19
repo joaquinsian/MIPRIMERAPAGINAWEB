@@ -1,0 +1,37 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {font-size: 55px; font-weight: 600; line-height: 80px;}
+h1 {color:#0091ea;}
+
+p {
+    font: size 25px;
+    color:#64ffda;
+}
+
+.navbar{ 
+    background-color: #1a237e;
+    box-shadow: 0 2px 4px 0 rgba(0 , 0 , 0 , .05);
+    min-height: 100px;
+} 
+
+.nav-link {color:white}
+.nav-link:hover{color: white}
+
+.navbar-brand{color:white}
+.navbar-brand:hover{color:white}
+
+#hero{
+    background-image: url('imagenes/principal.jpg');
+    background-size: cover;
+    padding-top: 90px;
+    min-height: 700px;
+    color: #ffffff;
+}
+
+.content-center{
+    max-width: 800px;
+    margin: 0 auto 60px auto;
+    text-align:center;
+}

@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{ 
+    background-color: #1a237e;
+    box-shadow: 0 2px 4px 0 rgba(0 , 0 , 0 , .05);
+    min-height: 100px;
+} 
+
+
+.portafolio-container{
+    position:relative;
+    overflow:hidden;
+    margin: 10px 0;
+    border-radius:2px;
+}
